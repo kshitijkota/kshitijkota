@@ -21,11 +21,11 @@ I'm a student at PES University with a deep passion for cutting-edge technology,
 
 ### HMU to collaborate or just start a conversation!:
 <p align="left">
-    <a href="https://www.linkedin.com/in/pranav-hemanth"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="https://discordapp.com/users/pranavh26"><img src="https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/kshitijkota/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+    <a href="https://discordapp.com/users/karathen."><img src="https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white"></a>
     <a href="mailto:kshitijkota22@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
-    <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-    <a href="https://leetcode.com/u/vVRzF5HnE5/"><img src="https://img.shields.io/badge/Leetcode-332244?style=flat-square&logo=leetcode&logoColor=white"></a>
+    <a href="https://instagram.com/kshitij_kota/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+    <a href="https://leetcode.com/u/kshitijkota22/"><img src="https://img.shields.io/badge/Leetcode-332244?style=flat-square&logo=leetcode&logoColor=white"></a>
 </p>
 
 ---
