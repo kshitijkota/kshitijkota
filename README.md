@@ -13,7 +13,7 @@ I'm a student at PES University with a deep passion for cutting-edge technology,
 - **Email:** [kshitijkota22@gmail.com](mailto:kshitijkota22@gmail.com)
 
 ### 🧠 Current Focus
-- **Exploring:** Cybersecurity, Full-Stack Development, and Machine Learning
+- **Exploring:** Cybersecurity, Machine Learning and Full-Stack Development
 
 ### 🤝 Collaboration
 - Open to collaborating on innovative projects that solve real-world problems
