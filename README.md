@@ -4,7 +4,7 @@
 
 ---
 
-I'm a student at PES University with a deep passion for cutting-edge technology, computer science, and innovation. My ambition is to become an engineer, innovator, and entrepreneur, with a strong interest in contributing to the rapidly growing private space sector. I am actively mastering cybersecurity and machine learning while also exploring full-stack development. I thrive on solving complex challenges through collaboration and innovation. My journey is driven by continuous learning and personal growth, and I take pride in leading teams to work cohesively and achieve impactful goals.
+I'm a student at PES University with a deep passion for cutting-edge technology, computer science, and innovation. I aim to become an engineer, innovator, and entrepreneur, and I am strongly interested in contributing to the rapidly growing private space sector. I am actively mastering cybersecurity and machine learning while also exploring full-stack development. I thrive on solving complex challenges through collaboration and innovation. My journey is driven by continuous learning and personal growth, and I take pride in leading teams to work cohesively and achieve impactful goals.
 
 ### 🌍 Location
 - **India**
